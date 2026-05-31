@@ -18,7 +18,6 @@ A Python-based cybersecurity tool designed to discover devices on a local networ
 - Python
 - Nmap
 - CustomTkinter / Tkinter
-- SQLite
 - ReportLab
 - Socket Programming
 
@@ -71,7 +70,6 @@ This project was developed for educational and cybersecurity learning purposes. 
 - Nmap Integration
 - GUI Development
 - Report Automation
-- Database Management
 
 ## Author
 
